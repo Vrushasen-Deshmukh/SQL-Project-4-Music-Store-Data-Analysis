@@ -1,5 +1,8 @@
 # SQL-Project-4-Music-Store-Data-Analysis
 
+# Overview 
+This project focuses on how to analyse the music playlist database. We can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
+
 # Key findings : 
 1. Who is the senior most employee based on job title?
 2. Which countries have the most invoices?
